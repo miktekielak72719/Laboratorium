@@ -1,0 +1,18 @@
+onet.pl :
+AKAMAI-LINODE-AP Akamai Conected Cloud, SG ->
+AKAMAI-ASN1, NL ->
+AMAZON-02, US
+
+
+nasa.com
+AKAMAI-LINODE-AP Akamai Conected Cloud, SG 0.0 ms ->
+HURRICANE, US 19.50 ms ->
+MANAGEDNETWORK, CA 24.0 ms ->
+ND-CA-ASN, CA 29.00 ms ->
+TEAMINTERNET-CA-AS, DE 213.00 ms
+
+goggle.com - nic nie odbija
+
+pickme.lk (Sri Lański Uber)
+AKAMAI-LINODE-AP Akamai Conected Cloud, SG 0.00 ms ->
+AUTOMATTIC, US .00 ms
